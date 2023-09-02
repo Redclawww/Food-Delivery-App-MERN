@@ -35,4 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [React](https://reactjs.org/) for the front-end library.
 - [Node.js](https://nodejs.org/) for the server-side runtime.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken) for JWT authentication.
-- [Material-UI](https://material-ui.com/) for UI components.
+- [Tailwind CSS]([https://tailwindcss.com/]) for UI components.
