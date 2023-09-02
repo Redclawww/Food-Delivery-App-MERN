@@ -1,6 +1,6 @@
-# Food Delivery MERN App
+# Food Costa
 
-![Food Delivery App](link_to_app_screenshot)
+![Food Delivery App]
 
 This is a full-stack Food Delivery application built on the MERN (MongoDB, Express, React, Node.js) stack. It is designed to provide a seamless food ordering and delivery experience for users. The app includes the following key features:
 
