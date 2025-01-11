@@ -20,9 +20,11 @@ export const SignUp = () => {
         });
         const json = await response.json();
         console.log(json.success);
-        if(!json.success){
-            alert("Enter Valid Credentials");
-        }
+        if (json.success) {
+      alert("User Registered Successfully");
+    } else {
+      alert("Enter Valid Credentials");
+    }
     }
 
     const onChange = async (event)=>{
