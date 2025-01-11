@@ -25,7 +25,7 @@ body('email', 'Invalid Email').isEmail(), body('password', 'Invalid password').i
                 password: secPassword
             });
             res.json({
-                sucess: true
+                success: true
             })
         } catch (error) {
             console.log(error);
